@@ -23,7 +23,7 @@ Ingeniero de Datos · Perú 🇵🇪 · construyo pipelines ETL/ELT confiables, 
 
 ### 🧭 Sobre mí
 
-Ingeniero de Sistemas especializado en **Ingeniería de Datos**. Diseño y doy soporte a pipelines ETL/ELT en entornos cloud y on-premise, con foco en modelado para capas staging, ODS, Data Warehouse y arquitecturas **Lakehouse** (enfoque Medallion). Integro fuentes como Oracle y SQL Server con procesos batch e incrementales, aplicando controles de calidad, trazabilidad y buenas prácticas de gobierno de datos. He trabajado con exposición a entornos industrial y de telco, dando soporte a soluciones analíticas y de BI.
+Ingeniero de Sistemas en formación (UNC, egreso 2026) especializado en **Ingeniería de Datos**. Diseño y doy soporte a pipelines ETL/ELT en entornos cloud y on-premise, con foco en modelado para capas staging, ODS, Data Warehouse y arquitecturas **Lakehouse** (enfoque Medallion). Integro fuentes como Oracle y SQL Server con procesos batch e incrementales, aplicando controles de calidad, trazabilidad y buenas prácticas de gobierno de datos. He trabajado con exposición a entornos industrial y de telco, dando soporte a soluciones analíticas y de BI.
 
 ### 🌱 Actualmente
 
@@ -91,10 +91,10 @@ Ingeniero de Sistemas especializado en **Ingeniería de Datos**. Diseño y doy s
 ### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SandroFCR&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SandroFCR&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
+---
 
 <p align="center"><sub>📫 cusihuamanrojassandrofelipe@gmail.com &nbsp;·&nbsp; 📱 +51 913 368 797</sub></p>
 
