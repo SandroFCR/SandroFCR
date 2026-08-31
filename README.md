@@ -47,6 +47,9 @@ Ingeniero de Sistemas en formación (UNC, egreso 2026) especializado en **Ingeni
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white"/>
 </p>
 
 <p align="center"><sub>También: PL/SQL · Spark SQL · Pandas · DAX · Power Query · modelo estrella · RLS</sub></p>
@@ -57,6 +60,7 @@ Ingeniero de Sistemas en formación (UNC, egreso 2026) especializado en **Ingeni
 
 | Proyecto | Qué es | Stack |
 |---|---|---|
+| **[n8n-automations-demo](https://github.com/SandroFCR/n8n-automations-demo)** | Portfolio de 8 workflows de automatización de datos en producción: scraping de dashboards sin API, transformación y carga a un data warehouse con control de idempotencia y reintentos — un click reemplaza un proceso manual diario | `n8n` `BigQuery` `Puppeteer` `Docker` |
 | **[CLIMA-ETL](https://github.com/SandroFCR/clima-etl)** | Pipeline ETL meteorológico end-to-end: extracción desde OpenWeather API, transformación de JSON y carga en MySQL, con arquitectura modular (extract/transform/load) | `Python` `OpenWeather API` `MySQL` |
 | **[SmartPetAI](https://github.com/SandroFCR/SmartPetAI)** | Modelado de datos NoSQL en Firestore + Cloud Functions serverless para generar recomendaciones personalizadas vía OpenAI API | `Kotlin` `Firestore` `Cloud Functions` |
 | **[data-engineering-sandro](https://github.com/SandroFCR/data-engineering-sandro)** | Proyectos y ejercicios de práctica en ingeniería de datos | `Python` |
