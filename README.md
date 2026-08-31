@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/SandroFCR">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Ingeniero+de+Datos+%7C+ETL+%C2%B7+Cloud+%C2%B7+BI;Construyo+pipelines+confiables+de+punta+a+punta;Python+%C2%B7+SQL+%C2%B7+PySpark+%C2%B7+n8n+%C2%B7+BigQuery;Abierto+a+oportunidades+como+Data+Engineer" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Ingeniero+de+Datos+%7C+ETL+%C2%B7+Cloud+%C2%B7+BI;Construyo+pipelines+confiables+de+punta+a+punta;Python+%C2%B7+SQL+%C2%B7+PySpark+%C2%B7+n8n+%C2%B7+BigQuery;Abierto+a+oportunidades+como+Data+Engineer" alt="Typing SVG"/>
   </a>
 </p>
 
@@ -98,10 +98,6 @@ Ingeniero de Sistemas especializado en **Ingeniería de Datos**. Diseño y doy s
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SandroFCR&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SandroFCR&theme=tokyo-night&hide_border=true&area=true" width="90%"/>
 </p>
 
 ---
