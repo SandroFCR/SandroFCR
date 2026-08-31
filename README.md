@@ -29,7 +29,7 @@ Ingeniero de Sistemas especializado en **Ingeniería de Datos**. Diseño y doy s
 
 ### 🌱 Actualmente
 
-- 🔭 Trabajando en analítica de datos y automatización de reportes en **Grupo Recupera**
+- 🔭 Trabajando en analítica de datos y automatización de reportes en **RCI**
 - 📚 Profundizando en **Databricks** y arquitecturas Lakehouse (certificación Databricks Fundamentals ✅)
 - 🎯 Buscando oportunidades como **Data Engineer / Analytics Engineer**
 
@@ -48,6 +48,8 @@ Ingeniero de Sistemas especializado en **Ingeniería de Datos**. Diseño y doy s
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
@@ -63,6 +65,7 @@ Ingeniero de Sistemas especializado en **Ingeniería de Datos**. Diseño y doy s
 | Proyecto | Qué es | Stack |
 |---|---|---|
 | **[n8n-automations-demo](https://github.com/SandroFCR/n8n-automations-demo)** | Portfolio de 8 workflows de automatización de datos en producción: scraping de dashboards sin API, transformación y carga a un data warehouse con control de idempotencia y reintentos — un click reemplaza un proceso manual diario | `n8n` `BigQuery` `Puppeteer` `Docker` |
+| **[python-etl-demo](https://github.com/SandroFCR/python-etl-demo)** | Portfolio de 6 scripts de ETL en producción: BigQuery + pandas + Excel + envío por WhatsApp Business API, con validaciones y escritura de archivos robustas para datasets de cientos de miles de filas | `Python` `BigQuery` `pandas` `WhatsApp API` |
 | **[CLIMA-ETL](https://github.com/SandroFCR/clima-etl)** | Pipeline ETL meteorológico end-to-end: extracción desde OpenWeather API, transformación de JSON y carga en MySQL, con arquitectura modular (extract/transform/load) | `Python` `OpenWeather API` `MySQL` |
 | **[SmartPetAI](https://github.com/SandroFCR/SmartPetAI)** | Modelado de datos NoSQL en Firestore + Cloud Functions serverless para generar recomendaciones personalizadas vía OpenAI API | `Kotlin` `Firestore` `Cloud Functions` |
 | **[data-engineering-sandro](https://github.com/SandroFCR/data-engineering-sandro)** | Proyectos y ejercicios de práctica en ingeniería de datos | `Python` |
@@ -72,7 +75,7 @@ Ingeniero de Sistemas especializado en **Ingeniería de Datos**. Diseño y doy s
 ### 💼 Experiencia
 
 ```text
-2026        Analista de Datos — Grupo Recupera
+2026        Analista de Datos — RCI
             └─ Automatización de reportes (Python + Power Query) de 45min → 0min
             └─ Dashboards Power BI (DAX) para KPIs operativos: AHT, FCR, CSAT, NPS
             └─ SQL para detección de patrones de churn
