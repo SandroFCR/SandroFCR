@@ -23,7 +23,7 @@ Ingeniero de Datos · Perú 🇵🇪 · construyo pipelines ETL/ELT confiables, 
 
 ### 🧭 Sobre mí
 
-Ingeniero de Sistemas en formación (UNC, egreso 2026) especializado en **Ingeniería de Datos**. Diseño y doy soporte a pipelines ETL/ELT en entornos cloud y on-premise, con foco en modelado para capas staging, ODS, Data Warehouse y arquitecturas **Lakehouse** (enfoque Medallion). Integro fuentes como Oracle y SQL Server con procesos batch e incrementales, aplicando controles de calidad, trazabilidad y buenas prácticas de gobierno de datos. He trabajado con exposición a entornos industrial y de telco, dando soporte a soluciones analíticas y de BI.
+Ingeniero de Sistemas especializado en **Ingeniería de Datos**. Diseño y doy soporte a pipelines ETL/ELT en entornos cloud y on-premise, con foco en modelado para capas staging, ODS, Data Warehouse y arquitecturas **Lakehouse** (enfoque Medallion). Integro fuentes como Oracle y SQL Server con procesos batch e incrementales, aplicando controles de calidad, trazabilidad y buenas prácticas de gobierno de datos. He trabajado con exposición a entornos industrial y de telco, dando soporte a soluciones analíticas y de BI.
 
 ### 🌱 Actualmente
 
